@@ -1,1 +1,1 @@
-# ezyfx_cny2018
+# Production Ready :: Sample PHP Project - CNY 2018 Personalized Greeting Page / Promo Page.
